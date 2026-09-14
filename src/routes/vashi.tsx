@@ -1,4 +1,4 @@
-﻿import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState, useEffect } from "react";
 import {
   Download,
@@ -72,7 +72,7 @@ function Header() {
           </span>
         </Link>
         <a
-          href="https://superprofile.bio/vp/6a9e788060bec10013e7fdd3?checkout=true"
+          href="https://superprofile.bio/vp/যোনি-vashikaran-vidya--বাংলা-?checkout=true"
           className="hidden rounded-full px-4 py-2 text-xs font-semibold text-white btn-glow cta-shine hover:btn-glow-hover sm:inline-flex"
         >
           এখনই পান
@@ -147,7 +147,7 @@ function Hero() {
           </p>
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:flex-wrap lg:justify-start">
             <a
-              href="https://superprofile.bio/vp/6a9e788060bec10013e7fdd3?checkout=true"
+              href="https://superprofile.bio/vp/যোনি-vashikaran-vidya--বাংলা-?checkout=true"
               className="group inline-flex items-center gap-2 rounded-xl px-6 py-3.5 text-sm font-bold text-white btn-glow cta-shine pulse-glow hover:btn-glow-hover"
             >
               <Download className="h-4 w-4 transition-transform group-hover:translate-y-0.5" />
@@ -423,7 +423,7 @@ function CheckoutSection() {
           </div>
 
           <a
-            href="https://superprofile.bio/vp/6a9e788060bec10013e7fdd3?checkout=true"
+            href="https://superprofile.bio/vp/যোনি-vashikaran-vidya--বাংলা-?checkout=true"
             className="group mt-5 flex w-full items-center justify-between rounded-xl px-5 py-3.5 text-sm font-bold text-white btn-glow cta-shine pulse-glow hover:btn-glow-hover"
           >
             <span>এখনই কিনুন</span>
@@ -571,7 +571,7 @@ function StickyOfferBar() {
         </div>
       </div>
       <a
-        href="https://superprofile.bio/vp/6a9e788060bec10013e7fdd3?checkout=true"
+        href="https://superprofile.bio/vp/যোনি-vashikaran-vidya--বাংলা-?checkout=true"
         className="inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-xs sm:text-sm font-bold text-white btn-glow cta-shine hover:btn-glow-hover shrink-0 w-full sm:w-auto text-center"
       >
         এখনই ডাউনলোড করুন <ArrowRight className="h-4 w-4" />
